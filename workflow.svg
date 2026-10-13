@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1640" height="284" viewBox="0 0 1640 284">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061022"/><stop offset="0.5" stop-color="#091B35"/><stop offset="1" stop-color="#050C19"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#173A6E" stop-opacity="0.88"/><stop offset="1" stop-color="#0C1C34" stop-opacity="0.95"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#44AAFF"/><stop offset="1" stop-color="#2369E9"/></linearGradient>
+</defs>
+<rect width="1640" height="284" rx="28" fill="url(#bg)"/>
+<path d="M0 253 H1640 M0 25 H1640" stroke="#2663BA" opacity=".10"/>
+<text x="40" y="47" fill="#77B8FF" font-family="Inter, Arial, sans-serif" font-weight="600" font-size="17" letter-spacing="3">CHAÎNE DE TRAITEMENT — SCHÉMA SIMPLIFIÉ</text>
+
+<rect x="36" y="82" width="284" height="142" rx="18" fill="url(#glass)" stroke="#3976C4" stroke-opacity=".58"/>
+<rect x="52" y="102" width="50" height="38" rx="11" fill="#1D63AB" fill-opacity=".35" stroke="#57A8FF" stroke-opacity=".5"/>
+<text x="77" y="128" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#82C7FF">01</text>
+<text x="54" y="170" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="700" fill="#F4F8FF">Découverte</text>
+<text x="54" y="197" font-family="Inter, Arial, sans-serif" font-size="15" fill="#B1C5E7">Identifier les équipements</text>
+<path d="M329 151 h13 m-6 -6 l6 6 -6 6" fill="none" stroke="#70B8FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="356" y="82" width="284" height="142" rx="18" fill="url(#glass)" stroke="#3976C4" stroke-opacity=".58"/>
+<rect x="372" y="102" width="50" height="38" rx="11" fill="#1D63AB" fill-opacity=".35" stroke="#57A8FF" stroke-opacity=".5"/>
+<text x="397" y="128" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#82C7FF">02</text>
+<text x="374" y="170" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="700" fill="#F4F8FF">Analyse</text>
+<text x="374" y="197" font-family="Inter, Arial, sans-serif" font-size="15" fill="#B1C5E7">Examiner les ports</text>
+<path d="M649 151 h13 m-6 -6 l6 6 -6 6" fill="none" stroke="#70B8FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="676" y="82" width="284" height="142" rx="18" fill="url(#glass)" stroke="#3976C4" stroke-opacity=".58"/>
+<rect x="692" y="102" width="50" height="38" rx="11" fill="#1D63AB" fill-opacity=".35" stroke="#57A8FF" stroke-opacity=".5"/>
+<text x="717" y="128" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#82C7FF">03</text>
+<text x="694" y="170" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="700" fill="#F4F8FF">Évaluation</text>
+<text x="694" y="197" font-family="Inter, Arial, sans-serif" font-size="15" fill="#B1C5E7">Qualifier les risques</text>
+<path d="M969 151 h13 m-6 -6 l6 6 -6 6" fill="none" stroke="#70B8FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="996" y="82" width="284" height="142" rx="18" fill="url(#glass)" stroke="#3976C4" stroke-opacity=".58"/>
+<rect x="1012" y="102" width="50" height="38" rx="11" fill="#1D63AB" fill-opacity=".35" stroke="#57A8FF" stroke-opacity=".5"/>
+<text x="1037" y="128" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#82C7FF">04</text>
+<text x="1014" y="170" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="700" fill="#F4F8FF">Alertes</text>
+<text x="1014" y="197" font-family="Inter, Arial, sans-serif" font-size="15" fill="#B1C5E7">Signaler les événements</text>
+<path d="M1289 151 h13 m-6 -6 l6 6 -6 6" fill="none" stroke="#70B8FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1316" y="82" width="284" height="142" rx="18" fill="url(#glass)" stroke="#3976C4" stroke-opacity=".58"/>
+<rect x="1332" y="102" width="50" height="38" rx="11" fill="#1D63AB" fill-opacity=".35" stroke="#57A8FF" stroke-opacity=".5"/>
+<text x="1357" y="128" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#82C7FF">05</text>
+<text x="1334" y="170" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="700" fill="#F4F8FF">Restitution</text>
+<text x="1334" y="197" font-family="Inter, Arial, sans-serif" font-size="15" fill="#B1C5E7">Visualiser et documenter</text>
+<text x="40" y="260" fill="#89A9D1" font-family="Inter, Arial, sans-serif" font-size="16">Inspiré des modules de supervision réseau étudiés dans smart_netsec. Flux conceptuel, non architecture de production.</text>
+</svg>
