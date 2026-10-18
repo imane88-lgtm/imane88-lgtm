@@ -120,7 +120,7 @@ Mon approche : **apprendre, construire, tester, documenter et améliorer.**
   &nbsp;
   <a href="https://www.linkedin.com/in/imane-mrino-899749373/"><img src="linkedin.png" alt="LinkedIn" width="176" /></a>
   &nbsp;
-  <a href="https://imane-mrino-portfolio.argus-codex-ai.chatgpt.site/"><img src="portfolio.png" alt="Portfolio" width="178" /></a>
+  <a href="https://imanemrinoportfolio.vercel.app/"><img src="portfolio.png" alt="Portfolio" width="178" /></a>
   <br/><br/>
   <sub>Imane Mrino · Réseaux, Cloud et Cybersécurité · Maroc</sub>
 </div>
